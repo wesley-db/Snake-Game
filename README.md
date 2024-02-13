@@ -19,5 +19,5 @@ Additionally, you can press the space bar to stop executing the program while in
 <img align="center" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/game.png">
 <br><br>
 <img align="left" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/gameOver.png">
-<img align="left" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/game.gif">
+<img align="left" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/demo.gif">
 

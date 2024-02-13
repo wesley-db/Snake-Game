@@ -13,3 +13,11 @@ The rules of my implementation are the same as the norm. The game will be over o
 <br><br>
 The snake's direction can be controlled using the keyboard's up, down, left, and right buttons; the left button changes the snake's direction to the left, the right makes it go right, and so on.
 Additionally, you can press the space bar to stop executing the program while in the middle of the game. I initially added this functionality for debugging purposes but decided to leave it there.
+<br><br>
+**Gallery**<br>
+<img align="left" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/menu.png">
+<img align="center" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/game.png">
+<br><br>
+<img align="left" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/gameOver.png">
+<img align="left" height="440" src="https://github.com/wesley-db/Snake-Game/blob/main/demo.gif">
+
